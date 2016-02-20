@@ -25,5 +25,5 @@ Standard C Library
 
 ## Collaborators
 
-Shaumik Ashraf
-Harris Mohsin
+ - Shaumik Ashraf
+ - Harris Mohsin
