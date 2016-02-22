@@ -1,3 +1,7 @@
 ### codebase directory
 
-use this directory to showcase ALL of the code for the hackathon project.
+This directory contains all of our code. 
+
+### how to compile
+
+simply enter the command `make` to compile main.cgi, which is our server-script. 
