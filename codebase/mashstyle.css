@@ -1,0 +1,70 @@
+/*
+mashstyle.css
+
+*/
+
+body {
+	background-color:rgb(232,255,255); /*GET BETTER COLOR*/
+}
+
+h1 {
+	text-align: center;
+	padding: 10px;
+	margin: 10px;
+}
+
+p {
+	
+}
+
+h2 {
+	text-align:center;
+	padding: 5px;
+	margin-right:20%;
+	margin-left:20%;
+}
+
+.tabcontainer {
+	padding:10px;
+	
+	margin-top:10px;
+	margin-right:20%;
+	margin-left:20%;
+	
+	overflow-x:auto;
+	overflow-y:style;
+}
+
+table, tr, th, td {
+	border: 3px ridge white;
+	background-color:rgb(210,255,210);
+}
+
+table.tab {
+	border-collapse:collapse;
+	empty-cells:hide;
+}
+
+tr:hover {
+	background-color:rgb(255,212,212);
+}
+
+th {
+	text-align: center;
+	vertical-align: middle;
+	padding:10px;
+}
+
+th:hover {
+	background-color:rgb(255,65,65);
+}
+
+td {
+	text-align: left;
+	vertical-align: middle;
+	padding:5px;
+}
+
+td:hover {
+	background-color:rgb(255,65,65);
+}
